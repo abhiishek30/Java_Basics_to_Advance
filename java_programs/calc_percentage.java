@@ -8,7 +8,7 @@ public class calc_percentage {
     public static void main(String[] args) {
         Scanner S = new Scanner(System.in);
 
-        System.out.println("write marks of subject like out of 100 or 200 or AS you wish");
+        System.out.println("write total marks of individual subject like 100 or 200 or AS you wish");
         int f = S.nextInt();
         System.out.print("write marks of 5 subejcts you get , out of ");
         System.out.println(f);
