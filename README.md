@@ -19,7 +19,7 @@
 </p>
 
 <p align="center">
-  <i>"Consistency beats talent when talent doesn't work hard."</i>
+  <i>"Stay patient, keep building—your breakthrough is loading..."</i>
 </p>
 
 <p align="center">
@@ -27,3 +27,18 @@
     <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" />
   </a>
 </p>
+
+## For Contact :
+📫 Reach me: abhisheksingh8356@gmail.com
+
+## Tech Stack
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+## GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhiishek30&show_icons=true)
+## GitHub Streak
+![GitHub Streak](https://streak-stats.demolab.com?user=abhiishek30)
+## Trophy Section
+![Trophy](https://github-profile-trophy.vercel.app/?username=abhiishek30)
