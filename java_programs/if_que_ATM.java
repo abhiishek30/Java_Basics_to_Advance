@@ -27,7 +27,7 @@ public class if_que_ATM {
             }
 
             if(b<=100 || b>=50000){
-                System.out.println("enter valid numbers");
+                System.out.println(" Insufficient Balance ");
                 return;
             }
             System.out.print("Total balance left : ");
