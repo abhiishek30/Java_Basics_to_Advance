@@ -18,7 +18,7 @@ public class if_else_que_triangle {
             System.out.println("This Is Equilateral Triangle");
             return;
         }
-        if(ab==bc && bc!=ca)
+        if(ab==bc && bc!=ca || ab!=bc && bc==ca || ab==ca && bc!=ca)
         {
             System.out.println("This Is Isosceles Triangle");
             return;
