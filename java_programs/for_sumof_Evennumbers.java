@@ -2,7 +2,7 @@
 
 import java.util.Scanner;
 
-public class for_sumof_numbers {
+public class for_sumof_Evennumbers {
     public static void main(String[] args) {
         Scanner s=new Scanner(System.in);
         System.out.print(" sum of all even numbers from 1 to ");
